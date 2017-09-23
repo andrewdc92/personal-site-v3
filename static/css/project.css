@@ -1,10 +1,4 @@
-/*img {
-  height: 8em !important;
-  width: 9em !important;
-  margin-left: -2em !important;
-  border-radius: 3em !important;
-  padding: 0 !important;
-}*/
+
 
 i {
   font-size: 46px !important;
@@ -12,26 +6,26 @@ i {
   padding: 10px 50px 0 50px;
   text-decoration-line: none !important;
 
-
 }
 
- /*.grow2, i {
-  text-decoration: un !important;
+.content-header {
+  text-align: center !important;
+}
 
-}*/
+li {
+  width: 13em !important;
+  text-align: center !important;
+}
 
-/*a:link {
-  text-decoration: underline;
-  color: black;
-}*/
 a {
   text-decoration-line: none !important;
 }
 
 #shapeHolder {
-  margin-left: 10em;
+  margin-left: 7em;
   position: relative;
-  padding-top: 20em;
+  margin-top: 10em !important;
+  padding-top: 2em;
 }
 .container2{
   height: 180px;

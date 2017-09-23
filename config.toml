@@ -7,8 +7,7 @@ theme = "dimension"
 [params]
   description = 'Thoughts & Musings'
   logo = "fa-hand-spock-o"
-  # logoimage = "/images/prism.jpg"
-  copyright = "Untitled"
+  copyright = "2017, SF"
 
 # [[params.social]]
 #   medium = "twitter"
