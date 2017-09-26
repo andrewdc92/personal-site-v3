@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Andrew Cordivari</title>
+    <link>/</link>
+    <description>Recent content on Andrew Cordivari</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>2017, SF</copyright>
+    <lastBuildDate>Tue, 19 Sep 2017 13:10:06 -0700</lastBuildDate>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Motivations</title>
+      <link>/motivations/</link>
+      <pubDate>Tue, 19 Sep 2017 13:10:06 -0700</pubDate>
+      
+      <guid>/motivations/</guid>
+      <description>Why do I get up in the morning? I profoundly enjoy learning, and I have a deeply engrained passion for pushing my physical limits. When I grow weary of one pursuit, I switch to the other, and that cycle comprises the majority of my waking moments. I grew up dabbling in a dozen different sports (never football though, thanks mom) and ultimately settled on lacrosse and wrestling. The North East (particularly New Jersey, New York, and Pennsylvania) are national powerhouses in wrestling, frequently sending their varsity athletes to top D1 programs.</description>
+    </item>
+    
+    <item>
+      <title>Current Projects</title>
+      <link>/new_work/</link>
+      <pubDate>Sat, 23 Sep 2017 18:32:36 -0700</pubDate>
+      
+      <guid>/new_work/</guid>
+      <description>Current Projects 
+ &amp;gt;FOMO - Support Engineer  Fomo is a lightweight, high performance app that creates real-time social proof when users take action on websites, like making a purchase or signing up for a newsletter. It integrates with a wide array of popular services, including but not limited to: Shopify, Stripe, Paypal, Zapier, Instagram, and Facebook.</description>
+    </item>
+    
+    <item>
+      <title>Past Projects</title>
+      <link>/old_work/</link>
+      <pubDate>Tue, 19 Sep 2017 18:32:36 -0700</pubDate>
+      
+      <guid>/old_work/</guid>
+      <description>Past Projects 
+ &amp;gt;Villa - Full Stack Engineer   I was brought on as the second engineering hire to complete a mobile application and create the web application in 12 weeks in hopes of pursuing a seed round. The mobile app was constructed with React Native and Redux for the user interface with a Rails API and Postgres db comprising the backend.</description>
+    </item>
+    
+    <item>
+      <title>Reach Out</title>
+      <link>/social/</link>
+      <pubDate>Mon, 18 Sep 2017 18:32:36 -0700</pubDate>
+      
+      <guid>/social/</guid>
+      <description>Github LinkedIn Medium Email</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>/about/</link>
+      <pubDate>Fri, 15 Sep 2017 18:32:36 -0700</pubDate>
+      
+      <guid>/about/</guid>
+      <description>I studied and worked among entrepreneurs over the last six years. As my appreciation and interest in computer development grew, I committed to shift from a facilitator to a creator. Currently working with the VP of Engineering at Villa to build the mobile and web applications. If you&#39;d like to connect or learn more, take a look at my profiles above or send me an email. When I&#39;m not coding, you can find me biking around Marin, playing guitar, or enjoying a long weightlifting session.</description>
+    </item>
+    
+  </channel>
+</rss>
